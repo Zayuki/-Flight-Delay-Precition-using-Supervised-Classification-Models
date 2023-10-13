@@ -18,9 +18,12 @@ There are various factors that can contribute to flight delays, including weathe
 | Name                                      | 2016 - 2018 Flight Delays and Cancellations  |
 |-------------------------------------------|----------------------------------------------|
 | File size                                 | 2.18 GB                                      |
+| Source                                    | The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics |
+| URL                                       | https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv |
+| File size                                 | 2.18 GB                                      |
 | Year                                      | 2016 - 2018                                 |
+| NaN values                                | 115,332,132                                |
 | Description                               | This dataset contains a summary information on the number of on-time, delayed, canceled, and diverted flights published by U.S. Department of Transportation's Air Travel Consumer Report from 2016 to 2018. |
-| Purpose                                   | Train supervised classification machine learning models to accurately predict flight delay. |
 | Columns                                   | 27                                           |
 | Rows                                      | 1,850,5725                                  |
 | NaN values                                | 115,332,132                                |
