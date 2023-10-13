@@ -2,6 +2,11 @@
 
 <img src='https://i1.wp.com/theluxurytravelexpert.com/wp-content/uploads/2014/08/flight-delays1.jpg?ssl=1' width='669'>
 
+## Project Overview
+
+![image](https://github.com/Zayuki/Flight_Delay_Prediction_Using_Supervised_Classification_Model/assets/67309677/abb0a62c-885b-4342-870c-a58b185ea324)
+
+
 ## Introduction
 
 There are various factors that can contribute to flight delays, including weather conditions, maintenance issues, and congestion at airports. For example, a study conducted by the Federal Aviation Administration found that in 2020 approximately 33.4% of flight delays were caused by weather-related issues, such as thunderstorms and high winds (United States Department of Transportation, 2022). The consequences of flight delays can be severe for both passengers and the aviation industry. Passengers may miss connections or important events, leading to additional expenses and disruptions to their travel plans. For airlines and airports, flight delays can result in lost revenue, as well as damage to their reputation and customer satisfaction (Efthymiou et al., 2018).
@@ -33,7 +38,7 @@ Therefore, analysis of flight delay has become a popular research area. However,
 
 ## Methodology (Flow Chart)
 
-![image](https://github.com/Zayuki/Flight_Delay_Prediction_Using_Supervised_Classification_Model/assets/67309677/abb0a62c-885b-4342-870c-a58b185ea324)
+![image](https://github.com/Zayuki/Flight_Delay_Prediction_Using_Supervised_Classification_Model/assets/67309677/4c364ed5-ceaa-4d9c-af71-e681549cb267)
 
 
 ## Results
