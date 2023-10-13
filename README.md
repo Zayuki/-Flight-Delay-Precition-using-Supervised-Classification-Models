@@ -1,3 +1,3 @@
 # Flight_Delay_Prediction_Using_Supervised_Classification_Model
 
-![image_1](Delayed.png){width=200px}
+<img src="[https://github.com/Zayuki/Flight_Delay_Prediction_Using_Supervised_Classification_Model/blob/main/Delayed.png]" width="100" height="100">
