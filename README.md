@@ -31,7 +31,8 @@ Therefore, analysis of flight delay has become a popular research area. However,
 
 ## Methodology (Flow Chart)
 
-![Alt text](Flowchart.png)
+![image](https://github.com/Zayuki/Flight_Delay_Prediction_Using_Supervised_Classification_Model/assets/67309677/abb0a62c-885b-4342-870c-a58b185ea324)
+
 
 ## Results
 
